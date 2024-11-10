@@ -1,9 +1,9 @@
 ## CSC207-Project-Group-18
-Team name: ありがとう (arigatou)
+Team name: ありがとう (Arigatou)
 
 Members: Zihan Jin, Hao Hu, Chuxuan Ai, Jeffrey Shen
 
-Github names: JeromeJinzh (Zihan), HARDY130 (Hao)
+Github names: JeromeJinzh (Zihan), HARDY130 (Hao), ChuxuanAi (Chuxuan), jeffreyshen0 (Jeffrey)
 
 User stories:
 
