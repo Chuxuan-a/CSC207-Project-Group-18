@@ -3,7 +3,7 @@ Team name: ありがとう (Arigatou)
 
 Members: Zihan Jin, Hao Hu, Chuxuan Ai, Jeffrey Shen
 
-Github names: JeromeJinzh (Zihan), HARDY130 (Hao), ChuxuanAi (Chuxuan), jeffreyshen0 (Jeffrey)
+Github names: JeromeJinzh (Zihan), HARDY130 (Hao), Chuxuan-a (Chuxuan), jeffreyshen0 (Jeffrey)
 
 User stories:
 
