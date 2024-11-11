@@ -7,7 +7,7 @@ Github names: JeromeJinzh (Zihan), HARDY130 (Hao), ChuxuanAi (Chuxuan), jeffreys
 
 User stories:
 
-Chuxuan -- As a user, I want a personal account to record my health data and provide a nutritional analysis. From a user interaction perspective, this app should have a signup page, a login page, and a display page for personal analysis.
+Chuxuan -- As a user, I want agit  personal account to record my health data and provide a nutritional analysis. From a user interaction perspective, this app should have a signup page, a login page, and a display page for personal analysis.
 
 Jeffrey -- As a user, I would like this app to offer me a daily meal plan based on my health data. In terms of user interaction, it is to show the daily meal schedule through a clear window.
 
